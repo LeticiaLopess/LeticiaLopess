@@ -10,7 +10,7 @@
 </div> -->
 
 <div>
-  <img align="center" alt="LA" height="400" src="https://sacc-la.org/wp-content/uploads/2020/03/bottom-image-1-downtown.jpg">
+  <img align="center" alt="LA" height="350" src="https://sacc-la.org/wp-content/uploads/2020/03/bottom-image-1-downtown.jpg">
 </div>
 
 <div style="display: inline_block"><br>
