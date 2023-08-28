@@ -1,12 +1,16 @@
 ### Hi! I'm Leticia Lopes👋
 
-<div>
+<!-- <div>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=LeticiaLopess&show_icons=true&theme=tokyonight" />
   </a>
   <a href="https://github.com/anuraghazra/convoychat">
     <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=LeticiaLopess&&show_icons=true&theme=tokyonight&layout=compact&langs_count=8&card_width=320" />
   </a>
+</div> -->
+
+<div>
+  <img align="center" alt="LA" height="400" src="https://sacc-la.org/wp-content/uploads/2020/03/bottom-image-1-downtown.jpg">
 </div>
 
 <div style="display: inline_block"><br>
