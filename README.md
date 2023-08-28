@@ -1,4 +1,4 @@
-### Hi! I'm Leticia Lopes👋
+### Hi! I'm Leticia Lopes 👋😊🧋🪐
 
 <!-- <div>
   <a href="https://github.com/anuraghazra/github-readme-stats">
