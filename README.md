@@ -1,5 +1,5 @@
 * 👋 Hi, I'm Leticia!
-* 👩🏻‍💻 Software Developer at Onprofit, crafting a checkout platform designed for digital creators and entrepreneurs.
+* 👩🏻‍💻 Software Developer at iRede.
 * ☁️ Exploring AWS, Google Cloud, and Artificial Intelligence.
 * ✨ I’m into music, sports, art, and whatever makes me laugh!
 * 🚀 I love mixing creativity with logic, it makes everything more interesting.
